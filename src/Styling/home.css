@@ -1,0 +1,35 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .upload-section {
+    margin: 20px 0;
+  }
+  
+  .file-input {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  .upload-btn {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .csv-btn {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .image-btn {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .response-box {
+    width: 80%;
+    height: 150px;
+    margin-top: 20px;
+  }
+  

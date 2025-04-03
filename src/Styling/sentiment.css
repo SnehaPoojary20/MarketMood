@@ -1,0 +1,9 @@
+.chart-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .bar-chart, .pie-chart {
+    margin-top: 20px;
+  }
+  

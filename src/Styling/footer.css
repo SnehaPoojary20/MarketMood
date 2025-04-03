@@ -1,0 +1,37 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100vw; /* Ensures full screen width */
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Keeps it above other elements */
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+  }
+  
+  .social-icons a {
+    color: white;
+    font-size: 20px;
+    margin: 0 15px;
+    transition: color 0.3s;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    color: #1db954; /* Green hover effect */
+  }
+  
+  
+  
